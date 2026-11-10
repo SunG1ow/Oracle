@@ -1,0 +1,4 @@
+CREATE TABLE ex2_4 (
+    COL_FLOT1   FLOAT(32),
+    COL_FLOT2   FLOAT
+);

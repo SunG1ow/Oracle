@@ -1,0 +1,6 @@
+CREATE TABLE ex2_8 (
+    COL1        VARCHAR2(10) PRIMARY KEY,
+    COL2        VARCHAR2(10)
+);
+
+INSERT INTO ex2_8 (col1) VALUES ( my_seq1.NEXTVAL);

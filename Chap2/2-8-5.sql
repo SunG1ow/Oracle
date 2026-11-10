@@ -1,0 +1,2 @@
+SELECT my_seq1.CURRVAL
+    FROM DUAL;

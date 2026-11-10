@@ -1,0 +1,1 @@
+INSERT INTO ex2_2 VALUES ('홍길동', '홍길동', '홍길동');

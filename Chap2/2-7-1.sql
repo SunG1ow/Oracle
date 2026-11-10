@@ -1,0 +1,2 @@
+CREATE OR REPLACE PUBLIC SYNONYM syn_channel2
+FOR channels;

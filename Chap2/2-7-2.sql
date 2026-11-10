@@ -1,0 +1,1 @@
+GRANT SELECT ON syn_channel2 TO PUBLIC;

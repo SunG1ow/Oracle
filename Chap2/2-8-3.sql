@@ -1,0 +1,1 @@
+INSERT INTO ex2_8 (col1) VALUES (my_seq1.NEXTVAL);

@@ -1,0 +1,5 @@
+CREATE TABLE ex2_3 (
+    COL_INT     INTEGER,
+    COL_DEC     DECIMAL,
+    COL_NUM     NUMBER
+);

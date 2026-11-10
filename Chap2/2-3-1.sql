@@ -1,0 +1,5 @@
+CREATE TABLE ex2_2 (
+    COLUMN1     VARCHAR2(3),
+    COLUMN2     VARCHAR2(3 byte),
+    COLUMN3     VARCHAR2(3 char)
+);

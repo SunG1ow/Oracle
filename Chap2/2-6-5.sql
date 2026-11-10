@@ -1,0 +1,1 @@
+GRANT SELECT ON syn_channel TO HR;
