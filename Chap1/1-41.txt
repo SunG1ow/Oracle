@@ -1,0 +1,21 @@
+
+USER                          
+------------------------------
+ORA_USER
+
+
+TABLE_NAME                    
+------------------------------
+SALES
+PRODUCTS
+KOR_LOAN_STATUS
+JOBS
+JOB_HISTORY
+EMPLOYEES
+DEPARTMENTS
+CUSTOMERS
+COUNTRIES
+CHANNELS
+
+10개 행이 선택되었습니다. 
+

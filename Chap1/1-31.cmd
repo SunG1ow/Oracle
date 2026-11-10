@@ -1,0 +1,1 @@
+sqlplus ora_user/hong@myoracle
