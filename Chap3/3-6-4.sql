@@ -1,0 +1,1 @@
+TRUNCATE TABLE ex3_4;

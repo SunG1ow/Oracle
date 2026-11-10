@@ -1,0 +1,2 @@
+INSERT INTO ex3_1
+VALUES ('GHI', 30);
